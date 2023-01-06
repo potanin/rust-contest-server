@@ -13,4 +13,5 @@ fn main() {
     
     // submission4::run(); // This one is interactive so better not run every time.
 
+    println!("And finally: {}.", submission1::fib(42));
 }
