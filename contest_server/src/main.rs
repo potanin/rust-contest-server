@@ -1,3 +1,5 @@
+mod submission1;
+
 fn main() {
 
     contest_server::submission1::run();
